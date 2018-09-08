@@ -96,7 +96,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(41,53,91,1);
+	background-color:rgba(162,175,216,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -136,7 +136,7 @@ video{
 #portafolio{
 	width:100%;
 	padding-bottom:1%;
-	background:linear-gradient(to bottom right, #FFC0CB, #29355B);
+	background:linear-gradient(to bottom right, #FFC0CB, #A2AFD8);
 }
 
 .item {
@@ -184,8 +184,9 @@ footer{
 	width:100%;
 	padding:3em 0 1em 0;
 	text-align:center;
-	font-family: 'Montserrat', sans-serif;
-	font-weight:700;
+	font-family: 'Oswald', sans-serif;
+	font-weight:400;
+
 }
 
 footer p{
