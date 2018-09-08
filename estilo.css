@@ -96,7 +96,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(255,192,203,1);
+	background-color:rgba(41,53,91,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -113,7 +113,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(255,222,181,1);
+	background-color:rgba(255,192,203,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
@@ -136,7 +136,7 @@ video{
 #portafolio{
 	width:100%;
 	padding-bottom:1%;
-	background:linear-gradient(to bottom right, #FFDEB5, #FFC0CB);
+	background:linear-gradient(to bottom right, #FFC0CB, #29355B);
 }
 
 .item {
