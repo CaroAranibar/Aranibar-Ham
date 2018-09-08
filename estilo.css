@@ -52,8 +52,8 @@ header{
 	top:40%;
 	position: absolute;
 	text-align:center;
-	z-index:0;
-	color:white;
+	z-index:9;
+	color:black;
 }
 
 @media screen and (max-width: 980px){
